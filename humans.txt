@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bob Deakins 	bob@hello.com	@bobbyd1230978
 
 # THANKS
 
