@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-added a line for rebasing example
+added a line for rebasing example, more changes from myfeature branch too
 
 ## Intro
 
