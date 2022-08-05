@@ -8,6 +8,7 @@
 # THANKS
 
     thanks friends
+	say hello
 
 # TECHNOLOGY COLOPHON
 
