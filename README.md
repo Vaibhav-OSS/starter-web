@@ -19,7 +19,3 @@ text
 ## How to Contribute
 
 fork repo then issue pull req for review
-
-### Copyright
-
-Copyright 2029
